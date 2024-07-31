@@ -1,0 +1,522 @@
+/*my cv*/
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+    <link rel="stylesheet"
+     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style(cv).css">
+    <title>Resume</title>
+</head>
+<body>
+    <main class="main-content">
+        <section class="left-section">
+            <div class="left-content">
+            <div class="profile">
+                <div class="image">
+                    <img src="/images/new.jpg" alt="">
+                </div>
+                <h2 class="name">Priya Sharma</h2>
+            </div>
+            <div class="contact-info">
+                <h3 class = "main-title">Contact-Info</h3>
+                <ul>
+                    <li>
+                        <i class="fa-solid fa-location-dot"></i>
+                        Gurdaspur , punjab
+                        </li>
+                    <li>
+                        <i class="fa-solid fa-phone"></i>
+                        7589206795
+                     </li>
+                    <li>
+                        <i class="fa-solid fa-envelope" ></i>
+                        <a href="https://mail.google.com/mail/u/0/#inbox" class ="hov">ps106412@gmail.com</a>
+                    </li>
+                    <li>
+                        <i class="fa-brands fa-linkedin"></i>
+                        <a href="https://www.linkedin.com/in/priyasharma6795" class="hov">linkedin.com/in/priyasharma6795</a> 
+                    </li>
+                    <li>
+                        <i class="fa-brands fa-instagram"></i>
+                        <a href="https://www.instagram.com/accounts/onetap/?next=%2F" class="hov">insta/prisharma9866</a> 
+                    </li>
+                    <li>
+                        <i class="fa-brands fa-github"></i>
+                        <a href="https://github.com/prisharma9866/mycv/new/main"  class="hov">github.com/prisharma9866</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="skills-section">
+                <h3 class = "main-title"> Skills</h3>
+                <ul>
+                    <grid class="grid">
+                    <li>
+                         <div class = "skill-title  box"> HTML </div>
+                    </li> 
+                    <li>
+                        <div class = "skill-title  box"> CSS </div>
+                    </li>
+                    <li>
+                        <div class = "skill-title  box"> Javascript </div>
+                    </li>
+                    <li>
+                        <div class = "skill-title  box"> Bootstrap  </div>
+                    </li>
+                    <li>
+                        <div class = "skill-title  box"> MongoDb </div>
+                    </li>
+                    <li>
+                        <div class = "skill-title box"> React.js </div>
+                    </li>
+                    <li>
+                        <div class = "skill-title box"> Node.js </div>
+                    </li>
+                    <li>
+                        <div class = "skill-title  box"> Problem Solving </div>
+                    </li>
+                    <li>
+                        <div class = "skill-title box"> DSA </div>
+                    </li>
+                    <li>
+                        <div class = "skill-title box"> Core Java </div>
+                    </li>
+                    <li>
+                        <div class = "skill-title box">SQL</div>
+                    </li>
+                    <li>
+                        <div class = "skill-title box">microsoft package </div>
+                    </li>
+                </grid>
+            </ul>
+            </div>
+                <div class="internship">
+                <h3 class="main-title">Internship</h3>
+                <div>
+                    <ul>
+                        CODESOFT INTERNSHIP PROGRAM
+                    </ul>
+                    <li>
+                        Web Development  (present)<br>
+                        FROM: 05/07/2024 to 05/08/2024<br>
+                    
+                    </li>
+                </div>
+                <div>
+                    <ul>
+                        CODETECH IT SOLUTIONS PVT.LTD
+                    </ul>
+                    <li>
+                        Full Stack Web Developer  (present)<br>
+                        FROM: 15/07/2024 to 15/09/2024<br>
+                        
+                    </li>
+                </div>
+            </div>
+            <div class="lang">
+                <h3 class="main-title">Languages</h3>
+                <div>
+                    <ul>
+                        
+                    <li>English</li>
+                    <li>Hindi</li>
+                    </ul>
+                </div>
+            </div>        
+             </div> 
+            </div>      
+        </section>
+        <section class="right-section">
+            <div class="right-main-content">
+                <section class="about">
+                <h2 class="right-title">Career Objective </h2>
+                <p class="para">
+                    <b><u>Full Stack Web Developer</u></b><br>
+                    Dedicated IT graduate eager to contribute technical expertise to innovative projects.
+                    Looking for a role comimitted to continuous and contributing to innovative projects. 
+                    Passionating full stack web developer
+                     with a strong desire to create innovative and user-friendly web applications.
+                </p>
+                </section>
+                <section class="education  about">
+                    <h2 class="right-title">Education</h2>
+                    <div class="timeline">
+                        <div class="left-tl-content">
+                            <h5 class="tl-title">Guru Nanak Dev University , Amritsar , punjab</h5>
+                            <p class="para">2023-2024</p>
+                        </div>
+                        <div class = "right-tl-content">
+                            <div class="tl-content">
+                                <h5 class="tl-title-2">Post Graduate Diploma in Computer Applications</h5>
+                                <p class="para">cgpa: 8.8</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="timeline">
+                        <div class="left-tl-content">
+                            <h5 class="tl-title">Swami Swatantranand Memorial college , Dinanagar , Punjab</h5>
+                            <p class="para">2020-2023</p>
+                        </div>
+                        <div class = "right-tl-content">
+                            <div class="tl-content">
+                                <h5 class="tl-title-2"> Bachelor  of Science in Information Technology </h5>
+                                <p class="para"> percentage: 88</p>
+                            </div>
+                        </div>
+                     </div>
+                     <div class="timeline">
+                        <div class="left-tl-content">
+                            <h5 class="tl-title">Swami Swatantranand Memorial Senior Secondary School , Dinanagar, punjab </h5>
+                            <p class="para">2019-2020</p>
+                        </div>
+                        <div class = "right-tl-content">
+                            <div class="tl-content">
+                                <h5 class="tl-title-2">(Higher Secondary Education)<br> 
+                                   12<sup>th</sup> </h5>
+                                <p class="para">percentage: 90.44</p>
+                            </div>
+                        </div>
+                    </div>
+                 </section>
+                <section class="Projects about">
+                    <h2 class="right-title">Projects</h2>
+                    <div class="timeline">
+                        <div class="left-tl-content">
+                            <h5 class="tl-title">Html and css project</h5>
+                            <p class="para">25/12/2023-20/01/2024   </p>
+                        </div>
+                        <div class = "right-tl-content">
+                            <div class="tl-content">
+                                <h5 class="tl-title-2">Photography</h5>
+                                <p class="para">Title  : css -photography</p><br>
+                                <p class="para">Minor project with the basic HTML tags and CSS properties</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="timeline">
+                        <div class="left-tl-content">
+                            <h5 class="tl-title">Html and css project</h5>
+                            <p class="para"> 10/2/2024- 15/3/2024</p>
+                        </div>
+                        <div class = "right-tl-content">
+                            <div class="tl-content">
+                                <h5 class="tl-title-2">Spotify Clone</h5>
+                                <p class="para"> Title : Spotify -web Player:Music for everyone</p><br>
+                                <p class="para">This project resembles to the main page of the spotify.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="timeline">
+                        <div class="left-tl-content">
+                            <h5 class="tl-title">Javascript project</h5>
+                            <p class="para"> 1/3/2024- 5/4/2024</p>
+                        </div>
+                        <div class = "right-tl-content">
+                            <div class="tl-content">
+                                <h5 class="tl-title-2">Simon Game</h5>
+                                <p class="para"> Title : Simon sale game</p><br>
+                                <p class="para">Developed and utiized an various js element to generate and make it user-friendly responsive game. </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="timeline">
+                        <div class="left-tl-content">
+                            <h5 class="tl-title">Html & css & javascript project</h5>
+                            <p class="para"> 5/6/2024- 30/6/2024</p>
+                        </div>
+                        <div class = "right-tl-content">
+                            <div class="tl-content">
+                                <h5 class="tl-title-2">Basic Calculator</h5>
+                                <p class="para"> Title : Calculator - calculate Now </p><br>
+                                <p class="para">A responsive calculator with all basic operators to perform calculation made with the use of basic element of  html , css and javascript</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                
+                        <section class="about">
+                        <h2 class="right-title"> Certificates </h2>
+                        <p class="para">
+                            <p class ="cert">&#11029; University topper in graduation</p><br>
+                            <p class ="cert">&#11029; part of INSPIRE program organised by DST</p><br>
+                            <p class ="cert">&#11029; best Nss Voluntee Certificate</p><br>
+                            <p class ="cert">&#11029; 10+ prizes in declamation , Extempore and debate competition</p>
+                        </p>
+                            
+                        </section
+            </div>
+        </section>
+    </main>
+</body>
+</html>
+/*css file */
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;list-style:none;
+    list-style:none;
+    font-family:'Nunito','sans-serif';
+}
+body{
+background-color:#94D9EA;
+}
+.main-content{
+    min-height:100vh;
+    width:80%;
+    margin:2rem auto;
+    display:grid;
+    grid-template-columns:repeat(7,1fr);
+}
+.left-section{
+    grid-column:span 2;
+    height:100%;
+    background-color:#00324A;
+}
+.right-section{
+    grid-column: span 5;
+    height:100%;
+    background-color: #f7f7f7;
+}
+.left-content{
+    padding:2rem 2rem;
+}
+.profile{
+    width:100%;
+    border-bottom:1px solid #002333;
+}
+.image{
+    width:100%;
+    text-align:center;
+}
+.profile img{
+    width:100%;
+    border-radius:50%;
+    border:8px solid #002333;
+}
+.name{
+    font-size:2rem;
+    color:white;
+    text-align:center;
+    text-transform:uppercase;
+    letter-spacing:1px;
+    padding:1.2rem 0;
+}
+.main-title{
+    font-size:1.8rem;
+    text-transform:uppercase;
+    letter-spacing:1px;
+    color:#f7f7f7ec;
+    padding-top:3rem;
+}
+
+.contact-info ul{
+    padding-top:2rem ;
+}
+
+.contact-info ul li{
+    padding:.4rem 0;
+    display:flex;
+    align-items:center;
+    color:#718096;
+}
+
+.contact-info ul li i{
+    padding-right:1rem;
+    font-size:1.1rem;
+    color:#2D9CDB;
+}
+.contact-info a{
+    color:#718096;
+    text-decoration:none;
+}
+.skills-section ul{
+    padding-top:2rem;
+}
+ .skills-section ul  li{
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+   
+}
+
+.skill-title{
+    text-transform:uppercase;
+    color:#f7f7f7a1;
+    font-size:1rem;
+    margin-bottom: 10px;
+    text-align: center;
+    padding:5px;
+}
+
+.right-main-content{
+    padding:2rem 3rem;
+}
+.right-title{
+    letter-spacing:1px;
+    text-transform:uppercase;
+    color:#2f80ed;
+    margin-bottom:1.2rem;
+    position:relative;
+}
+.right-title::after{
+    content:"";
+    position:absolute;
+    width:60%;
+    height:.2rem;
+    background-color:#2f80ed;
+    border-radius:12px;
+    right:0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.para{
+    line-height:1.6rem;
+    color:#718096;
+    font-size:1.1rem;
+}
+.grid{
+    display:grid;
+    grid-template-rows: repeat(6,1fr);
+    grid-template-columns: repeat(2,1fr);
+    border-radius:2px;
+    grid-gap:8px;
+}
+.box{
+    background-color: #718096a1;
+    border-radius:10px;
+    width:100px;
+    height:40px;
+}
+.about{
+    padding-bottom:2rem;
+}
+.timeline{
+    display:grid;
+    grid-template-columns: repeat(2 ,1fr);
+}
+.tl-title{
+    letter-spacing:1px;
+    font-size:1.3rem;
+    color:#002333;
+}
+.tl-title-2{
+    letter-spacing:1px;
+    font-size:1.3rem;
+    color:#2D9CDB;
+}
+.tl-content{
+    border-left:1px solid #ccc;
+    padding-left:2rem;
+    position:relative;
+    padding-bottom:2rem;
+}
+.tl-title-2::before{
+    content:"";
+    position:absolute;
+    width:.6rem;
+    height:.6rem;
+    background-color:#2D9CDB;
+    border-radius:50%;
+    transform:translateX(-50%);
+    left:0;
+}
+
+.cert{
+    line-height:1.6rem;
+    color:#718096;
+    font-size:1.1rem;
+}
+.hov:hover{
+    cursor:pointer;
+}
+.internship li{
+    padding:.4rem 0;
+    display:flex;
+    align-items:center;
+    color:#718096;
+}
+.internship   ul{
+    padding-top:2rem ;
+    color:#f7f7f7a1;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.lang ul{
+    padding-top:2rem ;
+    color:#f7f7f7a1;
+    font-weight: bold;
+}
+.lang li{
+    padding:.4rem 0;
+    display:flex;
+    align-items:center;
+    color:#718096;
+}
+@media screen and (max-width:823px){
+    .right-title ::after{
+        width:40%;
+    }
+}
+@media screen and (max-width:681px){
+    .right-title :after{
+        width:30%;
+    }
+}
+@media screen and (max-width:780px){
+    .timeline{
+        grid-template-columns: repeat(1,1fr);
+
+    }
+    }
+    @media screen and (max-width:780px){
+        .left-section{
+            grid-column: span 3;
+    }
+        .right-section{
+            grid-column: span 4;
+        }
+}
+@media screen and (max-width:1200px){
+   .main-content{
+    grid-template-columns:repeat(1,1fr);
+   }
+   .profile img{
+    width:40%;
+   }
+}
+@media screen and (max-width:700px){
+    .profile img{
+        width:60%;
+    }
+}
+@media screen and (max-width :390px){
+    .name{
+        font-size:1.5rem;
+    }
+}
+.btn{
+    background-color:#fff; 
+    font-size:12px;
+    font-weight:500;
+    text-transform:uppercase;
+    color:#000;
+    letter-spacing:0.5px;
+    padding:10px 20px;
+    border-radius:5000px;
+    transition: all 0.3s;
+}
+.btn:hover{
+    transform:scale(1.15);
+}
+.btn-download{
+    padding:16px 32px;
+    font-size:16px;
+    position:fixed;
+    bottom:27px;
+    left:cal(50%- 96px);
+    z-index:100;
+    box-shadow:0 6px 23px rgba(0,0,0,0.45);
+}
